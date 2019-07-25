@@ -8,7 +8,7 @@ Assignment - Week 2 - Homework - Profile App
   + Has follow button, send message button
   + Total photos, followers, following
   + List out user's beautiful photos
- - Optional:
+- Optional:
   + Style follow button and send message button has shadow.
   + Create beautiful bottom tab layout using Flex + Vector icons.
   + Layout header with Back button and Filter button.
